@@ -2,7 +2,7 @@ Terminal Connect 4.
 Name: Ty Crabtree
 
 Description:
-	This is an implementation of Connect 4 with artificial intelligence. This game is ran and played in the terminal window. 
+	This is an implementation of Connect 4 with artificial intelligence. This game is displayed through a simple GUI. 
 
 Building / Running;
 	1. Open terminal.
