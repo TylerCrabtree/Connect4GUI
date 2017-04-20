@@ -271,7 +271,7 @@ class Board:
 	    self.gui(row, move,"black")# need to change! Changed to move
 	    
 	    if self.winsFor('O'):
-		self.postMessage("O wins!")
+		self.postMessage("Black wins!")
 		return
 	    elif self.isFull():
 		self.postMessage("Tie")
